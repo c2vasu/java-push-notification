@@ -44,7 +44,7 @@
 
 <div>
 	<button onclick="getQuoteClassicHttp()">Get Quote</button>
-	
+	<br><br>
 	<div id="output">
 	<!-- content updated here -->
 	</div>

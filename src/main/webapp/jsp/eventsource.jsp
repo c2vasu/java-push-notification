@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Classic HTTP demo</title>
+<title>Server Sent Event demo</title>
 <link rel="stylesheet" href="resources/css/demo.css">
 <script src="resources/js/jquery.min.js"></script>
 <script type="text/javascript">
